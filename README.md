@@ -1,4 +1,5 @@
 # Warp the fight cheat
+A cheat menu for [Warp the Fight by MrKtosiek](https://mrktosiek.itch.io/warp-the-fight).
 ## Installation:
 1. Download `MelonLoader` by following the installation steps under *Automated Installation* [here](https://melonwiki.xyz/#/?id=requirements)
 2. Install MelonLoader to your Game's .exe File. You can leave the Installation settings to the default.
